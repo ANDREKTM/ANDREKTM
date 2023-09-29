@@ -4,7 +4,7 @@ while :
 do
 echo "${GREEN}
 
-⸺͟͞ꪶOLÁ  SOU A SAKURA-VIP ^-^
+☠️OLÁ  SOU  ⁰⁷⁵ TRALHA ☠️
 (⁠｡⁠•̀ᴗ⁠-⁠)✧ INICIANDO MEUS SISTEMAS🌸${WHITE}"
 node connect.js
 sleep 1
